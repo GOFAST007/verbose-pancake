@@ -1,0 +1,14 @@
+<html>
+  <body>
+    <script type="module">
+      import { expect } from './chai.js';
+      import { runTests } from '../../../test-runner-mocha/dist/standalone.js';
+
+      runTests(() => {
+        it('works', () => {
+          expect('foo').to.equal('foo');
+        });
+      });
+    </script>
+  </body>
+</html>
