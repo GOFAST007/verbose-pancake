@@ -38,7 +38,7 @@
     "@web/test-runner-core": "^0.13.0"
   },
   "devDependencies": {
-    "@types/mocha": "^10.0.1",
+    "@types/mocha": "^10.0.6",
     "deepmerge": "^4.2.2",
     "mocha": "^10.2.0"
   }
