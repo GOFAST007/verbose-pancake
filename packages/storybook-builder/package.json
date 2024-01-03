@@ -49,7 +49,7 @@
   "dependencies": {
     "@chialab/esbuild-plugin-commonjs": "^0.17.2",
     "@rollup/plugin-node-resolve": "^15.1.0",
-    "@rollup/pluginutils": "^5.0.2",
+    "@rollup/pluginutils": "^5.1.0",
     "@storybook/core-common": "^7.0.0",
     "@storybook/node-logger": "^7.0.0",
     "@storybook/preview": "^7.0.0",
