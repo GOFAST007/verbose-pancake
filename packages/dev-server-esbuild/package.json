@@ -60,7 +60,7 @@
   "devDependencies": {
     "@types/ua-parser-js": "^0.7.35",
     "@web/dev-server-rollup": "^0.6.1",
-    "lit-element": "^3.0.0 || ^4.0.1",
+    "lit-element": "^4.0.2",
     "preact": "^10.19.3"
   }
 }
