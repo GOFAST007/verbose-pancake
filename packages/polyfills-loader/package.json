@@ -46,7 +46,7 @@
     "feature detection"
   ],
   "dependencies": {
-    "@babel/core": "^7.12.10",
+    "@babel/core": "^7.23.7",
     "@web/parse5-utils": "^2.1.0",
     "@webcomponents/scoped-custom-element-registry": "^0.0.9",
     "@webcomponents/shadycss": "^1.11.0",
@@ -67,7 +67,7 @@
     "whatwg-fetch": "^3.6.20"
   },
   "devDependencies": {
-    "@types/babel__core": "^7.1.12",
+    "@types/babel__core": "^7.20.5",
     "@types/parse5": "^7.0.0",
     "@types/valid-url": "^1.0.3"
   }
