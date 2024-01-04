@@ -65,7 +65,7 @@
     "clone": "^2.1.2",
     "es-module-lexer": "^1.0.0",
     "get-stream": "^6.0.0",
-    "is-stream": "^2.0.0",
+    "is-stream": "^3.0.0",
     "isbinaryfile": "^5.0.0",
     "koa": "^2.13.0",
     "koa-etag": "^4.0.0",
