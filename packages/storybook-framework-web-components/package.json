@@ -54,7 +54,7 @@
     "esm"
   ],
   "dependencies": {
-    "@storybook/web-components": "^7.0.0",
+    "@storybook/web-components": "^7.6.7",
     "@web/storybook-builder": "^0.1.0"
   },
   "devDependencies": {
