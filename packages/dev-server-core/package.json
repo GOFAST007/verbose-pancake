@@ -64,7 +64,7 @@
     "chokidar": "^3.4.3",
     "clone": "^2.1.2",
     "es-module-lexer": "^1.0.0",
-    "get-stream": "^6.0.0",
+    "get-stream": "^8.0.1",
     "is-stream": "^3.0.0",
     "isbinaryfile": "^5.0.0",
     "koa": "^2.13.0",
