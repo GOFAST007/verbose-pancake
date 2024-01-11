@@ -61,7 +61,7 @@
     "regenerator-runtime": "^0.14.0",
     "resize-observer-polyfill": "^1.5.1",
     "shady-css-scoped-element": "^0.0.2",
-    "systemjs": "^6.8.1",
+    "systemjs": "^6.14.3",
     "terser": "^5.14.2",
     "urlpattern-polyfill": "^9.0.0",
     "whatwg-fetch": "^3.6.20"
