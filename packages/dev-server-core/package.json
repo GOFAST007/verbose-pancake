@@ -71,7 +71,7 @@
     "koa-etag": "^4.0.0",
     "koa-send": "^5.0.1",
     "koa-static": "^5.0.0",
-    "lru-cache": "^8.0.4",
+    "lru-cache": "^10.2.0",
     "mime-types": "^2.1.27",
     "parse5": "^7.1.2",
     "picomatch": "^2.2.2",
